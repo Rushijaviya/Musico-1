@@ -3,6 +3,9 @@
 ## Website
 [Musico](https://muzico.herokuapp.com/)
 
+## YouTube
+* [Musico Video](https://youtu.be/DkuUASlYv2I)
+
 ## Team Name 
 Debug Thugs
 
